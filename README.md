@@ -1,2 +1,2 @@
-# .run
+# joni.run
 My stash

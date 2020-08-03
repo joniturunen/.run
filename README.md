@@ -1,2 +1,2 @@
 # joni.run
-My stash
+My stash of shared configs etc.

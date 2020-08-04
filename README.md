@@ -1,2 +1,7 @@
 # joni.run
-My stash of shared configs etc.
+
+My stash of notes and confs. 
+
+[docs](./docs/)
+
+[confs](./confs/)

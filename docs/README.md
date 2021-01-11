@@ -1,4 +1,4 @@
-# Notes and docs
+# docs
 
 ## k8s notes
 
